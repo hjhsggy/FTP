@@ -1,0 +1,20 @@
+2018-02-02 22:39:51  INFO |client [(192.168.132.152 : 38244)] request login!
+2018-02-02 22:39:59  INFO |client [(192.168.132.152 : 38244)] request login!
+2018-02-02 22:39:59  INFO |client [WishSun(192.168.132.152 : 38244)] login success!
+2018-02-02 22:40:01  INFO |client [WishSun(192.168.132.152 : 38244)] request server file list!
+2018-02-02 22:40:13  INFO |client [WishSun(192.168.132.152 : 38244)] request download file :[./WishSun/bigfile(94371842 bytes)] !
+2018-02-02 22:40:27  INFO |client [WishSun(192.168.132.152 : 38244)] request upload file :[./WishSun/hello.c(363 bytes)] !
+2018-02-02 22:40:42  INFO |client [WishSun(192.168.132.152 : 38244)] request upload file :[./WishSun/bigfile(94371842 bytes)] !
+2018-02-02 22:40:57  INFO |client [WishSun(192.168.132.152 : 38244)] request download file :[taskLink.c(16645 bytes)] !
+2018-02-02 22:41:06  INFO |client [WishSun(192.168.132.152 : 38244)] close connect!
+2018-02-03 01:47:34  INFO |client [(192.168.132.152 : 38250)] request login!
+2018-02-03 01:47:34  INFO |client [WishSun(192.168.132.152 : 38250)] login success!
+2018-02-03 01:47:37  INFO |client [WishSun(192.168.132.152 : 38250)] request server file list!
+2018-02-03 01:47:51  INFO |client [WishSun(192.168.132.152 : 38250)] request download file :[./WishSun/bigfile(94371842 bytes)] !
+2018-02-03 01:47:59  INFO |client [(192.168.132.152 : 38250)] close connect!
+2018-02-03 01:48:17  INFO |client [(192.168.132.152 : 38254)] request login!
+2018-02-03 01:48:17  INFO |client [WishSun(192.168.132.152 : 38254)] login success!
+2018-02-03 01:48:24  INFO |client [WishSun(192.168.132.152 : 38254)] request server file list!
+2018-02-03 01:48:31  INFO |client [WishSun(192.168.132.152 : 38254)] request download file :[./WishSun/bigfile(94371842 bytes)] !
+2018-02-03 01:48:46  INFO |client [WishSun(192.168.132.152 : 38254)] request upload file :[./WishSun/hello.c(363 bytes)] !
+2018-02-03 01:48:48  INFO |client [(192.168.132.152 : 38254)] close connect!
